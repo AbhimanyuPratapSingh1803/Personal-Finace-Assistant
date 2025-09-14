@@ -3,6 +3,10 @@
 A **full-stack MERN application** that helps users manage their personal finances by tracking income, expenses, receipts, and generating insightful analytics.
 
 ---
+## 🎥 Demo Video
+Watch the complete Application walkthrough here : https://bit.ly/3K0FAGY
+
+---
 
 ## ✨ Features
 
